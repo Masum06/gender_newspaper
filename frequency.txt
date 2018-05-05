@@ -1,0 +1,31 @@
+1:	Star People: 1493
+2:	Shout: 19191
+3:	Shift: 1127
+4:	Wide Angle: 976
+5:	Star City: 3435
+6:	Star Weekend: 9392
+7:	Back Page: 11425
+8:	Star Chittagong: 8851
+9:	Editorial: 3974
+10:	Lifestyle: 13296
+11:	The Star: 23138
+12:	National: 103039
+13:	City: 41280
+14:	Letters: 4020
+15:	Strategic Issues: 8713
+16:	Bytes: 2614
+17:	Sports: 136776
+18:	Front Page: 81536
+19:	Opinion: 22195
+20:	Business: 28301
+21:	In Focus: 1743
+22:	Book Reviews: 31706
+23:	Arts & Entertainment: 246929
+24:	Country: 47711
+25:	Literature: 23157
+26:	Next Step: 1084
+27:	Metropolitan: 70281
+28:	World: 169637
+29:	Law & Our Rights: 1776
+30:	Health: 2178
+31:	Showbiz: 26879
