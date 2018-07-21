@@ -1,6 +1,6 @@
 # gender_newspaper
 
-word2vec_similarity_statistics.ipynb > youngladesh@gmail.com
+*word2vec_similarity_statistics.ipynb > youngladesh@gmail.com*
 
 **Description:**
 
@@ -12,8 +12,27 @@ word2vec_similarity_statistics.ipynb > youngladesh@gmail.com
 	• Plot the histogram of words using Matplotlib
 	• Runtime calculation
 
+*newspaper word2vec gensim.ipynb > youngladesh@gmail.com*
 
-word2vec with name replaced dataset.ipynb > masum.mc2@gmail.com
+**Description**
+
+	• Install Gensim and Download Newspaper data
+	• Train Gensim word2vec with the Newspaper data
+	• Train FastText with Newspaper data
+	• Save and Load trained model
+	• Failed attempt to Data Visualization
+
+*word2vec gensim.ipynb > youngladesh@gmail.com*
+
+**Description**
+
+	• Gensim simple tutorial
+	• Gensim training with 16MB TED talk dataset
+	• Basics of Gensim
+	• FastText
+
+
+*word2vec with name replaced dataset.ipynb > masum.mc2@gmail.com*
 
 **Description**
 
@@ -22,10 +41,12 @@ word2vec with name replaced dataset.ipynb > masum.mc2@gmail.com
 	• Train 4 different word2vec models with the dataset
 	• Most important file for me thesis
 
-word2vec_diff.ipynb > masum.mc2@gmail.com
+*word2vec_diff.ipynb > masum.mc2@gmail.com*
 
-**Description**
+*Description*
 
 	• Many kind of operations with Gensim word2vec model
 	• Playing with word2vec
-  * Comparison between 2 models
+	• Comparison between 2 models
+
+
